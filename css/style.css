@@ -1,0 +1,41 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body {
+  padding-top: 3.5rem;
+}
+
+.bg-img{
+  background: url("../img/cover.jpg");
+  height: 65vh;
+  color: #fff;
+  background-size: cover;
+}
+
+.bg-img-cat{
+  background: url("../img/cover.jpg");
+  color: #fff;
+  background-size: cover;
+}
+
+.qforum-block{
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+.qforum-side{
+  background-color: #eee;
+}
+
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
